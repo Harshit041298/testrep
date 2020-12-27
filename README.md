@@ -1,3 +1,3 @@
 # testrep
-##editing file
+## Editing file
 its a markdown file in this repository.
